@@ -1,0 +1,75 @@
+.imagen{
+    width: 87%; 
+    height: 40%;  
+}
+
+.datos{
+    position: relative;
+    width:45%; 
+    height: 40%;
+    font-family: sans-serif;
+}
+
+.servicio {
+    position: relative;
+    top: -159px;
+    left: 600px;
+    width: 45%; 
+    height: 40%;
+}
+
+.servicios{
+    top: 0;
+    left: 0;
+    position: relative;
+    width: 92%; 
+    height: 40%;
+}
+
+.fecha{
+    position: relative;
+    top: 33px;
+    left: 0;
+    width: 45%; 
+    height: 40%;
+}
+
+.contrato{
+    position: relative;
+    top: -1px;
+    left: 600px;
+    width: 45%; 
+    height: 40%;
+}
+
+.productos{
+    width: 90%; 
+    height: 40%;
+}
+
+.cliente{
+    position: relative;
+    top: 33px;
+    left: 1%;
+    width: 45%; 
+    height: 40%;
+}
+
+.tecnico{
+    position: relative;
+    top: -33px;
+    left: 35%;
+    width: 45%; 
+    height: 40%;
+}
+
+.aplicador{
+    position: relative;
+    top: -98px;
+    left: 64%;
+    width: 45%; 
+    height: 40%;
+}
+
+
+    	

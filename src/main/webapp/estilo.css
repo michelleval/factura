@@ -1,0 +1,42 @@
+.esquina{
+   
+    position: relative;
+    top: 8%;
+    left: 597px;
+    width: 45%; 
+    height: 40%;
+}
+
+.nfac{
+ position: relative;
+    top: 8%;
+    left: 0;
+    width: 45%; 
+    height: 40%;
+}
+   
+
+.datosf{
+	position: relative;
+    top: -195px;
+    left: 589px;
+    width: 45%; 
+    height: 40%;
+}
+
+.dirser{
+	position: relative;
+    top: -89px;
+    left: 0;
+    width: 83%; 
+    height: 40%;
+}
+
+.pagos{
+	position: relative;
+    top: -89px;
+    left: 0;
+    width: 83%; 
+    height: 40%;
+}
+
